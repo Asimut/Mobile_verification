@@ -2,14 +2,11 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6AnjS3IJg8s":
+      case "6AUc9RSTcV6":
         Script1();
         break;
-      case "5hBCMRXSDZR":
+      case "6ZM1OpvN2YY":
         Script2();
-        break;
-      case "5ngehutSeGb":
-        Script3();
         break;
   }
 }
@@ -39,59 +36,11 @@ storyline =
 
   "Region" : player.GetVar("Region"),
 
-  "Filiya" : player.GetVar("Filiya")
- }
+  "Filiya" : player.GetVar("Filiya"),
 
-//Не вносить изменений
-
-$.ajax(
-
- {
-
-  url: WEB_APP_URL,
-
-  type: "POST",
-
-  data: storyline,
-
-  success: function(data)
-
-  {
-
-   console.log(data);
-
-  },
-
-  error: function(err)
-
-  {
-
-   console.log('Error:', err);
-
-  }
-
- });
-
- return false;
-}
-
-function Script3()
-{
-  var player = GetPlayer();
-
-WEB_APP_URL="https://script.google.com/macros/s/AKfycbzdZzL-kYbQ3Lul9XVlM7TPaECWg_SPdtZg2bX8Vs7i4TBTLAoJ/exec";  
-
-storyline =
-
-{
-
- "UserName" : player.GetVar("UserName"),
-
-  "Region" : player.GetVar("Region"),
-
-  "Filiya" : player.GetVar("Filaya"),
-
-   "Statys" : player.GetVar("Statys")
+  "PNFP" : player.GetVar("PNFP"),
+   
+  "Course_pass" : player.GetVar("Course_pass"),
  }
 
 //Не вносить изменений
