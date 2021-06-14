@@ -2,10 +2,10 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5gTt55fMcaz":
+      case "6LC6kFmOmI8":
         Script1();
         break;
-      case "6lIexqaCd3u":
+      case "6ZrWn9D1ONo":
         Script2();
         break;
   }
@@ -34,9 +34,7 @@ storyline =
 
  "UserName" : player.GetVar("UserName"),
 
-  "Region" : player.GetVar("Region"),
-
-  "Filiya" : player.GetVar("Filiya"),
+  "Misto" : player.GetVar("Misto"),
 
   "PNFP" : player.GetVar("PNFP"),
    
