@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Mobilnyi_Kurier_12.08.2021" />
+              <option name="title_text" value="Mobilnyi_Kurier_08.09.2021" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="none" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1243,31 +1243,35 @@
         <slidelink slideid="_player.6fboUDGiNYv" displaytext="First_scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6fboUDGiNYv.63cCDEP302T" displaytext="Form" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5lK6tmsTZ8L" displaytext="Title" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6g2fuHHlOsP" displaytext="First_Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5XHhMCzzMnv" displaytext="Question_courier1" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6G2QxG0paR0" displaytext="Question_courier2" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5pdWf7zBR31" displaytext="Question_courier3" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.68Yj6znWv4H" displaytext="Question_courier4" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6HgfZ1Ppa2O" displaytext="Question_courier5" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6HOW2IPpEzV" displaytext="Question_courier6" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6oiwXtJVPpw" displaytext="Question_courier7" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6oF1vzS9yDA" displaytext="Question_courier8" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.66hMnl3S3XA" displaytext="Question_courier9" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6clvIvnD29j" displaytext="Question_6" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6Myr5Ebklpn" displaytext="Question_courier1" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5kkwMdy87gZ" displaytext="The End" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5qvdI5mR7Kp" displaytext="Resume_hero" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5iMQxjBedsF" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6KFSqAA3ICI" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6CiHSgIjt07" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6Lu5PP40Btv" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6jpiXdb4rCw" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5rNkB6i4AWp" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6oBHqNmXv79" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6g1WXbONexf" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6k2VFK6jTCW" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.61GnGcVgr9u" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6iS6Phql1WD" displaytext="Title" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5cC8V1iJCkO" displaytext="First_Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6oZAMgJTDGg" displaytext="Resume_hero" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6kBDhoEDhaQ" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5YTJxS4chQF" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5ubVvwW5zqd" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6FuqkFfLqsN" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6JqeoL7niGm" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5fuCpFrlObY" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6iZ71TvPowj" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5bG0w88YwHi" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6Pna0jH6lNP" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6e2mZiOmsoF" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5X9bOHpZT5T" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6ab6Q3deWsn" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5gVYAoQI3MH" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.64KnGbA8flb" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5qhzVrZS1PY" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5kGTZtTLYpn" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5wiFTKqfP2l" displaytext="Question_courier1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5fg6RCXZv0x" displaytext="Question_courier3" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5dN0aZEG1nx" displaytext="Question_courier4" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5y9Tws83V95" displaytext="Question_courier5" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5w2acUyOcMy" displaytext="Question_6" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6SXZBo9U0kQ" displaytext="Question_courier1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6glmVGcBXZF" displaytext="Question_courier5" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5ZD8eTyCKAF" displaytext="Question_courier5" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6BAGVs0JM2Q" displaytext="Question_courier5" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6XlIAvmt56K" displaytext="The End" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
