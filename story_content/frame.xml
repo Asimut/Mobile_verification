@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Mobilnyi_Kurier_08.09.2021" />
+              <option name="title_text" value="Mobilnyi_Kurier_02.09.2021" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1137,95 +1137,95 @@
   </colorschemes>
   <string_tables>
     <string_table name="npnxnanbnsnfns00000000001">
-      <string id="three_image_items">предметы</string>
-      <string id="three_image_viewed">просмотренного</string>
-      <string id="three_image_of">из</string>
-      <string id="three_image_item">предмет</string>
-      <string id="accessible_text">Доступный текст</string>
-      <string id="keyboardshortcuts_lower">Сочетания клавиш на клавиатуре</string>
-      <string id="zoom_to_fit">Приближайте, чтобы подогнать по размеру</string>
       <string id="acc_active">активна</string>
+      <string id="acc_closed_captions">Закриті підписи. Натисніть клавішу пробілу, щоб включити або вимкнути субтитри.</string>
+      <string id="acc_definition">визначення</string>
+      <string id="acc_finish">готово</string>
+      <string id="acc_locked">запер(ла) дверь</string>
+      <string id="acc_next">далі</string>
+      <string id="acc_pause">пауза</string>
+      <string id="acc_play">відтворення</string>
+      <string id="acc_previous">назад</string>
+      <string id="acc_replay">повтор</string>
+      <string id="acc_resources">ресурси</string>
+      <string id="acc_search_input">пошук</string>
+      <string id="acc_skipnavigation">Не додавати засоби навігації. Натисніть клавішу Enter, щоб повернутися до слайду.</string>
+      <string id="acc_slide_progress">прогресс слайдов</string>
+      <string id="acc_submit">отправить</string>
+      <string id="acc_submitall">відправити всі</string>
+      <string id="acc_visited">посетил(а)</string>
+      <string id="acc_volume">гучність</string>
+      <string id="accessible_text">Доступный текст</string>
+      <string id="acctext_shortcut">Переключить субтитры</string>
+      <string id="action">Действие</string>
       <string id="alt_key">Alt</string>
+      <string id="bio">Біографія</string>
       <string id="check_include">Додати до списку</string>
       <string id="clear">Сброс і повернення в меню</string>
       <string id="close">Закрити</string>
-      <string id="acc_closed_captions">Закриті підписи. Натисніть клавішу пробілу, щоб включити або вимкнути субтитри.</string>
+      <string id="closed_captions">Субтитри</string>
       <string id="closed_captions_tip">Переключение субтитров</string>
+      <string id="closedcaptions_shortcut">Переключить доступный текст</string>
       <string id="continue">Продовжити</string>
       <string id="continueresponsive">Продовжити</string>
       <string id="ctrl_key">Ctrl</string>
+      <string id="definition">Визначення</string>
+      <string id="desktop_start">Начать курс</string>
+      <string id="disabled_orientation">Поверніть пристрій</string>
       <string id="enable_keyboardshortcuts">Включить комбинации клавиш</string>
       <string id="enter_key">Enter</string>
       <string id="exit">Вийти</string>
       <string id="filter">Фільтр</string>
       <string id="finish">ГОТОВИЙ</string>
-      <string id="acc_finish">готово</string>
-      <string id="definition">Визначення</string>
-      <string id="acc_definition">визначення</string>
       <string id="glossary">Глосарій</string>
-      <string id="terms">терміни</string>
-      <string id="action">Действие</string>
       <string id="keyboardshortcuts">Сочетания клавиш на клавиатуре</string>
-      <string id="shortcuthelp">Перечислить сочетания клавиш на клавиатуре</string>
+      <string id="keyboardshortcuts_lower">Сочетания клавиш на клавиатуре</string>
+      <string id="mobile_start">Начать курс</string>
+      <string id="more_info">Додатково</string>
       <string id="mute_shortcut">Выкл./Вкл. звук</string>
-      <string id="next_shortcut">Следующий слайд</string>
-      <string id="playpause_shortcut">Воспроизведение / Пауза</string>
-      <string id="previous_shortcut">Предыдущий слайд</string>
-      <string id="replay_shortcut">Повторить слайд</string>
-      <string id="shortcut">Сочетание клавиш</string>
-      <string id="submit_shortcut">Добавить слайд</string>
-      <string id="acctext_shortcut">Переключить субтитры</string>
-      <string id="closedcaptions_shortcut">Переключить доступный текст</string>
-      <string id="togglezoom">Переключение режимов увеличения</string>
-      <string id="outline">Меню</string>
-      <string id="disabled_orientation">Поверніть пристрій</string>
       <string id="mute_tip">Выкл. звук</string>
       <string id="next">ДАЛІ</string>
-      <string id="acc_next">далі</string>
+      <string id="next_shortcut">Следующий слайд</string>
       <string id="next_slide_tip">Следующий слайд</string>
-      <string id="transcript_chk">Примітки</string>
-      <string id="transcript">Примітки</string>
-      <string id="bio">Біографія</string>
-      <string id="more_info">Додатково</string>
-      <string id="closed_captions">Субтитри</string>
-      <string id="acc_pause">пауза</string>
+      <string id="outline">Меню</string>
       <string id="pause_tip">Пауза</string>
-      <string id="acc_play">відтворення</string>
       <string id="play_tip">Воспроизведение</string>
-      <string id="send_an_email">Відправити лист</string>
+      <string id="playpause_shortcut">Воспроизведение / Пауза</string>
       <string id="prev">НАЗАД</string>
-      <string id="acc_previous">назад</string>
+      <string id="previous_shortcut">Предыдущий слайд</string>
       <string id="previous_slide_tip">Предыдущий слайд</string>
       <string id="question_list">Перелік запитань</string>
+      <string id="replay_shortcut">Повторить слайд</string>
       <string id="replay_tip">Повторить</string>
-      <string id="acc_replay">повтор</string>
       <string id="resources">Ресурси</string>
-      <string id="acc_resources">ресурси</string>
       <string id="restart">Почати спочатку</string>
       <string id="resume">Возобновить тест</string>
-      <string id="acc_locked">запер(ла) дверь</string>
-      <string id="acc_search_input">пошук</string>
-      <string id="search_toggle">Поиск</string>
-      <string id="sidebar_toggle">Переключение боковых панелей</string>
-      <string id="acc_slide_progress">прогресс слайдов</string>
-      <string id="desktop_start">Начать курс</string>
-      <string id="mobile_start">Начать курс</string>
-      <string id="acc_visited">посетил(а)</string>
       <string id="search">Пошук...</string>
       <string id="search_in">Пошук:</string>
       <string id="search_results">Результати пошуку</string>
+      <string id="search_toggle">Поиск</string>
+      <string id="send_an_email">Відправити лист</string>
       <string id="settings_tip">Параметры</string>
       <string id="shift_key">Shift</string>
-      <string id="acc_skipnavigation">Не додавати засоби навігації. Натисніть клавішу Enter, щоб повернутися до слайду.</string>
+      <string id="shortcut">Сочетание клавиш</string>
+      <string id="shortcuthelp">Перечислить сочетания клавиш на клавиатуре</string>
+      <string id="sidebar_toggle">Переключение боковых панелей</string>
       <string id="slide_text_chk">Текст слайда</string>
       <string id="spacebar_key">Space</string>
-      <string id="submitall">ВІДПРАВИТИ ВСЕ</string>
-      <string id="acc_submitall">відправити всі</string>
       <string id="submit">НАДІСЛАТИ</string>
-      <string id="acc_submit">отправить</string>
+      <string id="submit_shortcut">Добавить слайд</string>
       <string id="submit_tip">Добавить</string>
+      <string id="submitall">ВІДПРАВИТИ ВСЕ</string>
+      <string id="terms">терміни</string>
+      <string id="three_image_item">предмет</string>
+      <string id="three_image_items">предметы</string>
+      <string id="three_image_of">из</string>
+      <string id="three_image_viewed">просмотренного</string>
+      <string id="togglezoom">Переключение режимов увеличения</string>
+      <string id="transcript">Примітки</string>
+      <string id="transcript_chk">Примітки</string>
       <string id="unmute_tip">Вкл. звук</string>
-      <string id="acc_volume">гучність</string>
+      <string id="zoom_to_fit">Приближайте, чтобы подогнать по размеру</string>
     </string_table>
   </string_tables>
   <fonts>
