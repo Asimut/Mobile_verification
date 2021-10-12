@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Mobilnyi_Kurier_13.09.2021" />
+              <option name="title_text" value="Mobilnyi_Kurier_1.10.2021" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1137,10 +1137,34 @@
   </colorschemes>
   <string_tables>
     <string_table name="npnxnanbnsnfns00000000001">
+      <string id="three_image_progress_audio">прогресс</string>
+      <string id="three_image_audio">аудио</string>
+      <string id="three_image_camera_down">камера перемещена вниз</string>
+      <string id="three_image_camera_left">камера перемещена влево</string>
+      <string id="three_image_camera_right">камера перемещена вправо</string>
+      <string id="three_image_camera_up">камера перемещена вверх</string>
+      <string id="three_image_interaction_free">режим свободного исследования</string>
+      <string id="three_image_interaction_guided">режим путеводителя</string>
+      <string id="three_image_hotspot">горячая точка</string>
+      <string id="three_image_instructions">Используйте клавиши со стрелками для перемещения по 360-градусному изображению. Нажмите клавишу Tab для перехода к интерактивным маркерам и горячим точкам.</string>
+      <string id="three_image_interaction">Взаимодействие с 360-градусным изображением</string>
+      <string id="three_image_label">ярлык</string>
+      <string id="three_image_marker">маркер</string>
       <string id="three_image_items">предметы</string>
-      <string id="three_image_viewed">просмотренного</string>
+      <string id="three_image_interaction_next">далее</string>
+      <string id="three_image_pause_audio">приостановить аудио</string>
+      <string id="three_image_pause_video">приостановить видео</string>
+      <string id="three_image_play_audio">воспроизвести аудио</string>
+      <string id="three_image_play_video">воспроизвести видео</string>
+      <string id="three_image_interaction_prev">назад</string>
+      <string id="three_image_visited">посещено</string>
       <string id="three_image_of">из</string>
       <string id="three_image_item">предмет</string>
+      <string id="three_image_interaction_step">шаг</string>
+      <string id="three_image_progress_video">прогресс</string>
+      <string id="three_image_video">видео</string>
+      <string id="three_image_video_volume">громкость видео</string>
+      <string id="three_image_view_image">посмотреть изображение</string>
       <string id="accessible_text">Доступный текст</string>
       <string id="keyboardshortcuts_lower">Сочетания клавиш на клавиатуре</string>
       <string id="zoom_to_fit">Приближайте, чтобы подогнать по размеру</string>
@@ -1164,6 +1188,8 @@
       <string id="acc_definition">визначення</string>
       <string id="glossary">Глосарій</string>
       <string id="terms">терміни</string>
+      <string id="progress_hour">час</string>
+      <string id="progress_hours">часов</string>
       <string id="action">Действие</string>
       <string id="keyboardshortcuts">Сочетания клавиш на клавиатуре</string>
       <string id="shortcuthelp">Перечислить сочетания клавиш на клавиатуре</string>
@@ -1179,6 +1205,8 @@
       <string id="togglezoom">Переключение режимов увеличения</string>
       <string id="outline">Меню</string>
       <string id="disabled_orientation">Поверніть пристрій</string>
+      <string id="progress_minute">минута</string>
+      <string id="progress_minutes">минут</string>
       <string id="mute_tip">Выкл. звук</string>
       <string id="next">ДАЛІ</string>
       <string id="acc_next">далі</string>
@@ -1214,6 +1242,8 @@
       <string id="search">Пошук...</string>
       <string id="search_in">Пошук:</string>
       <string id="search_results">Результати пошуку</string>
+      <string id="progress_second">секунда</string>
+      <string id="progress_seconds">секунд</string>
       <string id="settings_tip">Параметры</string>
       <string id="shift_key">Shift</string>
       <string id="acc_skipnavigation">Не додавати засоби навігації. Натисніть клавішу Enter, щоб повернутися до слайду.</string>
@@ -1240,38 +1270,40 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6fboUDGiNYv" displaytext="First_scene" expand="true" type="slide">
+        <slidelink slideid="_player.6KOLT3WkIQz" displaytext="First_scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6fboUDGiNYv.63cCDEP302T" displaytext="Form" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6iS6Phql1WD" displaytext="Title" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5cC8V1iJCkO" displaytext="First_Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6oZAMgJTDGg" displaytext="Resume_hero" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6kBDhoEDhaQ" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5YTJxS4chQF" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5ubVvwW5zqd" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6FuqkFfLqsN" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6JqeoL7niGm" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5fuCpFrlObY" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6iZ71TvPowj" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5bG0w88YwHi" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6Pna0jH6lNP" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6e2mZiOmsoF" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5X9bOHpZT5T" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6ab6Q3deWsn" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5gVYAoQI3MH" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.64KnGbA8flb" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5qhzVrZS1PY" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5kGTZtTLYpn" displaytext="Smal_talk" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5wiFTKqfP2l" displaytext="Question_courier1" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5fg6RCXZv0x" displaytext="Question_courier3" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5dN0aZEG1nx" displaytext="Question_courier4" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5y9Tws83V95" displaytext="Question_courier5" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5w2acUyOcMy" displaytext="Question_6" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6SXZBo9U0kQ" displaytext="Question_courier1" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6glmVGcBXZF" displaytext="Question_courier5" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.5YAXogj0x2O" displaytext="Question_courier5" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6BAGVs0JM2Q" displaytext="Question_courier5" expand="false" type="slide" />
-            <slidelink slideid="_player.6fboUDGiNYv.6XlIAvmt56K" displaytext="The End" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6aztOXQV7n1" displaytext="Form" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.5fyPAM0pJDI" displaytext="Title" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6MuRqqne9PA" displaytext="First_Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6nNZgbv7gxW" displaytext="First_Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6Sigdc68Ofq" displaytext="Resume_hero" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6TMQxvINvwW" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6RyqdZwAcrO" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6qvG9Y3IZSD" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6aS5oBjruTh" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6CTxQEAkTYO" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6FiDyCJ2zC0" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6OJepM9bJLZ" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.5mIW9jFfSPZ" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6V1T9h0MuQi" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6ByZ04JvsGY" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6oYWqabspBC" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6Jb5daXxLvO" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.5k8LbnSWolq" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.5W33XKMQhZY" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6YErrZFyOii" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6NPQhtBenkc" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.5XN8FXn4joe" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6ViiioA9vwG" displaytext="Smal_talk" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.643dMiJwhSt" displaytext="Question_courier3" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.5sgApYWy61j" displaytext="Question_courier1" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.5d0LXYjVN43" displaytext="Question_courier1" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6UTrvtEAvAT" displaytext="Question_courier1" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.5ecM9SWifAY" displaytext="Question_6" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6Ei9Niw98Ho" displaytext="Question_courier1" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6B7XkPwgWAz" displaytext="Question_courier1" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.6U8beBygmzL" displaytext="Question_courier1" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.5iMGWUGW2aE" displaytext="The End" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>

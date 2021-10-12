@@ -2,11 +2,14 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "65NmNJBeT0Q":
+      case "62DZz4JGx8P":
         Script1();
         break;
-      case "5jYKHa4p5vl":
+      case "5be6wWQt1vr":
         Script2();
+        break;
+      case "68meoclUqjm":
+        Script3();
         break;
   }
 }
@@ -72,5 +75,10 @@ $.ajax(
  });
 
  return false;
+}
+
+function Script3()
+{
+  window.location.href="https://www.google.com/";
 }
 
