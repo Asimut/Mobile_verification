@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Mobilnyi_Kurier_1.10.2021" />
+              <option name="title_text" value="Mobilnyi_Kurier_12.10.2021" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1272,8 +1272,8 @@
       <links>
         <slidelink slideid="_player.6KOLT3WkIQz" displaytext="First_scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6KOLT3WkIQz.6aztOXQV7n1" displaytext="Form" expand="false" type="slide" />
-            <slidelink slideid="_player.6KOLT3WkIQz.5fyPAM0pJDI" displaytext="Title" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.63fh3Sd6kEc" displaytext="Form" expand="false" type="slide" />
+            <slidelink slideid="_player.6KOLT3WkIQz.5oU0onvgCzZ" displaytext="Title" expand="false" type="slide" />
             <slidelink slideid="_player.6KOLT3WkIQz.6MuRqqne9PA" displaytext="First_Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6KOLT3WkIQz.6nNZgbv7gxW" displaytext="First_Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6KOLT3WkIQz.6Sigdc68Ofq" displaytext="Resume_hero" expand="false" type="slide" />
